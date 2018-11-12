@@ -1,0 +1,1 @@
+webpack config for react, using babel, css-loader and source-map
