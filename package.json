@@ -1,17 +1,10 @@
 {
-	"name": "package",
-	"version": "1.0",
-	"description": "",
-	"private": true,
 	"scripts": {
 		"start": "webpack-dev-server --mode development --open",
 		"test": "",
 		"watch": "",
 		"build": "webpack --mode production"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
 	"devDependencies": {
 		"webpack": "^4.20.2",
 		"webpack-cli": "^3.1.1",
