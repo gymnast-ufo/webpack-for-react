@@ -6,16 +6,20 @@
 		"build": "webpack --mode production"
 	},
 	"devDependencies": {
-		"webpack": "^4.20.2",
-		"webpack-cli": "^3.1.1",
-		"webpack-dev-server": "^3.1.9",
-		"path": "^0.12.7",
-		"babel-core": "^6.26.3",
+		"@babel/core": "^7.4.3",
 		"babel-loader": "^8.0.4",
 		"babel-preset-env": "^1.7.0",
 		"babel-preset-stage-3": "^6.24.1",
 		"css-loader": "^1.0.0",
+		"node-sass": "^4.11.0",
+		"path": "^0.12.7",
+		"sass-loader": "^7.1.0",
 		"style-loader": "^0.23.1",
+		"webpack": "^4.20.2",
+		"webpack-cli": "^3.1.1",
+		"webpack-dev-server": "^3.2.1"
+	},
+	"dependencies": {
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6"
 	}
